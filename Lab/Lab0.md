@@ -23,6 +23,8 @@
 
 工程的範圍很廣，一般會分為數個子學科，這些子學科是工程中的不同領域、尤其是各領域中應用科學的部份，例如數學、物理及化學等。
 
+https://ivory-gaura-57e.notion.site/Lab0-e-g-GitHub-Colab-Google-Drive-fe4860eb66a44791896133ee30b767bf
+![images](https://user-images.githubusercontent.com/89327102/185781150-fd3a1f93-e2dc-4d2d-9d4f-51f0b6c19503.jpg)
 
 
 [TOP](#000)
