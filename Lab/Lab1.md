@@ -21,6 +21,8 @@
 
 ## Lab1-2 用Python學到國高中數學
 
+![螢幕擷取畫面 2022-08-28 150641](https://user-images.githubusercontent.com/89327102/187062025-c8fe7da6-b830-498c-a618-912ad171a9b8.jpg)
+
 <a name="003"/>
 
 ## Lab1-3 用Python實戰一下囉
