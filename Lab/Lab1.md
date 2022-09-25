@@ -26,3 +26,6 @@
 <a name="003"/>
 
 ## Lab1-3 用Python實戰一下囉
+
+![螢幕擷取畫面 2022-09-25 094524](https://user-images.githubusercontent.com/89327102/192124777-322b9776-a369-4b91-a730-f3ff46e2de12.jpg)
+
