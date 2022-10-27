@@ -34,6 +34,9 @@
 
 ## Lab 3-4 數據集分割
 
+![螢幕擷取畫面 2022-10-27 214108](https://user-images.githubusercontent.com/89327102/198301877-9510621a-d66d-433c-8710-0c451dbcaf4a.jpg)
+![螢幕擷取畫面 2022-10-27 214259](https://user-images.githubusercontent.com/89327102/198301935-7e3b7fef-bd20-4234-985e-caffa8d0abbe.jpg)
+![螢幕擷取畫面 2022-10-27 214607](https://user-images.githubusercontent.com/89327102/198301993-af961fd3-cdae-49ce-8cd2-767e03fefa4d.jpg)
 
 ## Lab 3-5 應用實作:  “微笑檢測應用於使用者滿意分析”
 
