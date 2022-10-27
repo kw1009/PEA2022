@@ -40,4 +40,13 @@
 
 ## Lab 3-5 應用實作:  “微笑檢測應用於使用者滿意分析”
 
+![螢幕擷取畫面 2022-10-27 233715](https://user-images.githubusercontent.com/89327102/198345311-632e14ac-dab5-4596-aa51-1f154f3621a7.jpg)
+![螢幕擷取畫面 2022-10-27 233931](https://user-images.githubusercontent.com/89327102/198345339-ee63934d-07fb-4df7-b301-94068235ddfc.jpg)
+![螢幕擷取畫面 2022-10-27 234040](https://user-images.githubusercontent.com/89327102/198345374-55aabc2c-f2c0-4748-9f52-da63afb3d3ff.jpg)
+![螢幕擷取畫面 2022-10-28 001944](https://user-images.githubusercontent.com/89327102/198345393-a75d4ebf-9cc2-403b-8497-b2eef3fbfef1.jpg)
+![螢幕擷取畫面 2022-10-28 002004](https://user-images.githubusercontent.com/89327102/198345416-7623d02d-46a4-48e2-9287-2006859592ef.jpg)
+![螢幕擷取畫面 2022-10-28 002020](https://user-images.githubusercontent.com/89327102/198345434-c27f0aef-386b-427f-9555-615ed2c2cf66.jpg)
+![螢幕擷取畫面 2022-10-28 002043](https://user-images.githubusercontent.com/89327102/198345459-a2a1bf97-44d4-4cc6-96d0-59ec1c771bc9.jpg)
+
+
 <a name="005"/>
