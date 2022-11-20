@@ -45,6 +45,8 @@
 
 ## Lab 4-5 影片中的人物識別
 
+![螢幕擷取畫面 2022-11-20 113150](https://user-images.githubusercontent.com/89327102/202881451-d26eb45e-4b30-4993-b96e-1cd0f9d5901d.jpg)
+
 <a name="006"/>
 
 ## Lab 4-6 參考以上經驗與程式, 變更自選另2位關鍵人物, 另建立資料夾 train1, test1, video1, output1 → 讓電腦幫我們工作, 可由影片識別人物，並輸出人物出現的時間表
