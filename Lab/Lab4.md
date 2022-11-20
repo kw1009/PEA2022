@@ -33,3 +33,17 @@
 
 ![螢幕擷取畫面 2022-11-06 152845](https://user-images.githubusercontent.com/89327102/200159311-a21c55d1-dd9e-4f2d-a87f-439413d387ef.jpg)
 
+<a name="004"/>
+
+## Lab 4-4 起手式 2: 準備+ 圖片中的人物標示
+
+![螢幕擷取畫面 2022-11-20 110707](https://user-images.githubusercontent.com/89327102/202880990-6c7bf375-8634-4fdf-914a-80a3e1914bbf.jpg)
+![螢幕擷取畫面 2022-11-20 110707](https://user-images.githubusercontent.com/89327102/202881000-863f656e-5118-4e92-a77d-367cc413232a.jpg)
+
+<a name="005"/>
+
+## Lab 4-5 影片中的人物識別
+
+<a name="006"/>
+
+## Lab 4-6 參考以上經驗與程式, 變更自選另2位關鍵人物, 另建立資料夾 train1, test1, video1, output1 → 讓電腦幫我們工作, 可由影片識別人物，並輸出人物出現的時間表
