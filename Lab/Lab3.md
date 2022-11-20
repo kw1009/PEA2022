@@ -22,6 +22,8 @@
 
 ## Lab 3-2 實戰時刻! Let’s fight!
 
+![螢幕擷取畫面 2022-11-20 114854](https://user-images.githubusercontent.com/89327102/202883302-63a0ca52-356d-4a33-bc51-436278af70c3.jpg)
+
 <a name="003"/>
 
 ## Lab 3-3 如何零基礎入門深度學習?
